@@ -56,7 +56,6 @@ library("dplyr")
 library("tidyr")
 library("ggplot2")
 library("scoringutils")
-library("qrensemble")
 ```
 
 ::: {.callout-tip}
